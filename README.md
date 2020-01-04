@@ -1,4 +1,4 @@
-there are two games in this project
-1 quoridor
-2 battleship
+there are two games in this project:
+1_quoridor
+2_battleship
 have fun :)
